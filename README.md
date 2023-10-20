@@ -79,7 +79,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shireen-qureshi-51b684203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shireen-qureshi-51b684203" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/qureshishireen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="qureshishireen01" height="30" width="40" /></a>
 </p>
-  <a href="mailto:lionratheshan@gmail.com">
+  <a href="mailto:qureshishireen07@gmail.com">
     <img align="left" alt=" Shireen Qureshi | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a> 
   <a href="">

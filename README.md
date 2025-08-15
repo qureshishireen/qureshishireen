@@ -71,7 +71,6 @@
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=shinuqureshi&show_icons=false&theme=radical) 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /> </p> 
 
 <h4> Connect with me🤝: <h4>
   </hr> 

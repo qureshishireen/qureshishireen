@@ -23,11 +23,6 @@
 </p>   
 </p>  
 
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qureshishireen&label=Profile%20views&color=0e75b6&style=flat" alt="qureshishireen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qureshishireen" alt="qureshishireen" /></a> </p>
@@ -75,14 +70,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shireen-qureshi-51b684203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shireen-qureshi-51b684203" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/qureshishireen01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="qureshishireen01" height="30" width="40" /></a>
-</p>
-  <a href="mailto:qureshishireen07@gmail.com">
-    <img align="left" alt=" Shireen Qureshi | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a> 
-  <a href="">
-    <img align="left" alt=" | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
- 
+</p> 
    <a href="https://github.com/qureshishireen">
     <img align="left" alt=" Shireen Qureshi | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>

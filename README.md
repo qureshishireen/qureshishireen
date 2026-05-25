@@ -80,15 +80,22 @@
 </details>
 <br> 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=shinuqureshi&show_icons=false&theme=radical) 
+<!-- GitHub Stats Cards Section -->
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=shinuqureshi&show_icons=false&theme=radical) 
-  </hr> 
- 
-  <br>
-  
-<p align="right" > Created with 🖤 by <a href="https://github.com/qureshishireen">qureshishireen</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=qureshishireen&label=Profile%20views&color=0e75b6&style=flat" alt="qureshishireen" /> </p>
+<hr />
+<br />
+
+<!-- Footer and Profile Views Section -->
+<p align="right">
+  Created with 🖤 by <a href="https://github.com/qureshishireen">qureshishireen</a>
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=qureshishireen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 

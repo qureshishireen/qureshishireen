@@ -80,9 +80,10 @@
 </details>
 <br> 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=shinuqureshi&show_icons=false&theme=radical) 
+![github stats](https://github-readme-stats.vercel.app/api?username=qureshishireen&show_icons=false&theme=radical) 
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=shinuqureshi&show_icons=false&theme=radical) 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=qureshishireen&show_icons=false&theme=radical)  
+
   </hr> 
  
   <br>

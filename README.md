@@ -83,9 +83,7 @@
 ![github stats](https://github-readme-stats-fast.vercel.app/api?username=qureshishireen&show_icons=false&theme=radical)
 
 ![top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=qureshishireen&show_icons=false&theme=radical)
-![github stats](https://vercel.app)
 
-![top-langs](https://vercel.app)
 
 
   </hr> 
